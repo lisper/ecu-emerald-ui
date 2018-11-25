@@ -1,0 +1,7 @@
+apt-get install python-tk
+
+/etc/systemd/system/autologin@.service
+
+~pi/.xsession
+#!/bin/bash
+~/ui/ui.py >/tmp/uilog.txt 2>&1
