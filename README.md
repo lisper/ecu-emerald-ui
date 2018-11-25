@@ -1,6 +1,8 @@
 # ecu-emerald-ui
 Simple python based data logger/user interface for Emerald K3 ECU
 
+[RaspberryPI Data loggs](pics/IMG_1010.jpg)
+
 Python code which runs on a Raspberrypi and connects via RS-232 to the
 Emerald ECU data port. The Emerald ECU is a nice aftermarket engine
 control computer which is very easy to setup and
@@ -10,6 +12,8 @@ The python UI program runs as an X window ui with the RaspberryPI 7"
 LCD touch screen.  Data can be collected and real time data can be
 displayed.  Handy in cases where strapping a laptop to the passenger
 seat and taking 5 laps around the track is difficult.
+
+[Readtime data screen](pics/IMG_1019.jpg)
 
 (we tried the laptop strapped down a while but found it was
 impractical.  the smaller raspberrypi datalogger was much easier to
